@@ -1,3 +1,5 @@
+can you please provide more resources on data science and pythn as i am a noobie in this
+
 # FlyPython
 
 http://flypython.com 
